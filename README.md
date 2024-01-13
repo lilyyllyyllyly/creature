@@ -4,6 +4,9 @@ it just spawns a bunch of windows with an image until you kill it with ctrl+c
 
 doesnt work well on wayland because it cant position the windows on random locations but it does run fine
 
+here's a funi image of it
+![](image.jpg)
+
 ## Installation
 - Dependencies
   * glfw (and by extension opengl)
