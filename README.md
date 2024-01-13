@@ -2,6 +2,8 @@ this is really badly made its 3 am help me
 
 it just spawns a bunch of windows with an image until you kill it with ctrl+c
 
+doesnt work well on wayland because it cant position the windows on random locations but it does run fine
+
 ## Installation
 - Dependencies
   * glfw (and by extension opengl)
