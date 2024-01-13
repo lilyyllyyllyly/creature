@@ -11,7 +11,6 @@
 #include "lodepng.h"
 
 #define SLEEP 1
-#define MAX_COUNT 100
 
 void handle_terminate(int signal) {
 	exit(EXIT_SUCCESS);
